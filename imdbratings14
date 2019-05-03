@@ -840,9 +840,9 @@ star_rating,title,content_rating,genre,duration,actors_list1,actors_list2,actors
 7.4,Mean Streets,R,Crime,112,Robert De Niro,Harvey Keitel,David Proval    
 7.4,Harry Potter and the Order of the Phoenix,PG-13,Adventure,138,Daniel Radcliffe,Emma Watson,Rupert Grint    
 7.4,Beetlejuice,PG,Comedy,92,Alec Baldwin,Geena Davis,Michael Keaton    
-7.4,Crazy,Stupid,Love,PG-13,Comedy,118,Steve Carell,Ryan Gosling,Julianne Moore    
+7.4,Crazy Stupid Love,PG-13,Comedy,118,Steve Carell,Ryan Gosling,Julianne Moore    
 7.4,Excalibur,R,Adventure,140,Nigel Terry,Helen Mirren,Nicholas Clay    
-7.4,True Grit,,Adventure,128,John Wayne,Kim Darby,Glen Campbell    
+7.4,True Grit,NOT RATED,Adventure,128,John Wayne,Kim Darby,Glen Campbell    
 7.4,Labyrinth,PG,Adventure,101,David Bowie,Jennifer Connelly,Toby Froud    
 7.4,Alice in Wonderland,G,Animation,75,Kathryn Beaumont,Ed Wynn,Richard Haydn    
 7.4,Predestination,R,Drama,97,Ethan Hawke,Sarah Snook,Noah Taylor    
@@ -884,4 +884,4 @@ star_rating,title,content_rating,genre,duration,actors_list1,actors_list2,actors
 7.4,Back to the Future Part III,PG,Adventure,118,Michael J. Fox,Christopher Lloyd,Mary Steenburgen    
 7.4,Master and Commander: The Far Side of the World,PG-13,Action,138,Russell Crowe,Paul Bettany,Billy Boyd    
 7.4,Poltergeist,PG,Horror,114,JoBeth Williams,Heather O  Rourke,Craig T. Nelson    
-7.4,Wall Street,R,Crime,126,Charlie Sheen,Michael Douglas,Tamara Tunie    
+7.4,Wall Street,R,Crime,126,Charlie Sheen,Michael Douglas,Tamara Tunie
